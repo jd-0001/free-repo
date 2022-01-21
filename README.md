@@ -6,3 +6,5 @@ This is commit from jd-0001
 This is new commit after cloning the repo in another org
 
 New commit after resolving pull issue
+
+this is new commit edit after free push
